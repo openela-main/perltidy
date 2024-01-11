@@ -1,0 +1,19 @@
+--- CHANGES
++++ CHANGES
+@@ -1548,14 +1548,14 @@ Perltidy Change Log
+       closing side comments (-csc) could have incorrect text.  This is
+       annoying but will be correct the next time perltidy is run with -csc.
+ 
+-     -Implemented XHTML patch submitted by Ville Skytt‰.
++     -Implemented XHTML patch submitted by Ville Skytt√§.
+ 
+      -Fixed bug where whitespace was being removed between 'Bar' and '()' 
+       in a use statement like:
+ 
+            use Foo::Bar ();
+ 
+-      Thanks to Ville Skytt‰ for reporting this.
++      Thanks to Ville Skytt√§ for reporting this.
+ 
+      -Whenever possible, if a logical expression is broken with leading
+       '&&', '||', 'and', or 'or', then the leading line will be padded
